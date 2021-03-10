@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[19],{90:function(o){o.exports=JSON.parse('{"allTagsPath":"/democraciv-discord-bot-docs/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/democraciv-discord-bot-docs/blog/tags/docusaurus"}')}}]);

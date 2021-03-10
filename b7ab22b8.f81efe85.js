@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{86:function(o){o.exports=JSON.parse('{"allTagsPath":"/democraciv-discord-bot-docs/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/democraciv-discord-bot-docs/blog/tags/facebook"}')}}]);
