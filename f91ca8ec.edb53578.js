@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[21],{93:function(o){o.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/democraciv-discord-bot-docs/blog/welcome"},{"title":"Hello","permalink":"/democraciv-discord-bot-docs/blog/hello-world"},{"title":"Hola","permalink":"/democraciv-discord-bot-docs/blog/hola"}]}')}}]);
